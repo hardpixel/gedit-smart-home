@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=smart_home
+IAge=3
+Name=Smart Home
+Description=Enable smart home functionality.
+Authors=Jonian Guveli <jonian@hardpixel.eu>
+Copyright=Copyright © 2016 Hardpixel
+Website=http://hardpixel.eu
